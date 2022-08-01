@@ -1,2 +1,2 @@
 # UnitCommitmentProblemOnCPLEX
- DS Project on IBM CPLEX OptimizationStudio
+ DS Project on IBM CPLEX OptimizationStudio by Jacopo Mereu. The original problem can be found here: https://www.researchgate.net/publication/3413226_Varying_fitness_functions_in_genetic_algorithm_constrained_optimization_The_cutting_stock_and_unit_commitment_problems
