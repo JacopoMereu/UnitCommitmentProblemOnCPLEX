@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="ASCII"?><project>
+	<version>1.0</version>
+	<configs>
+		<config default="true" name="CP" category="opl">
+			<ref name="progetto_CP.mod" type="model">
+			</ref>
+			<ref name="settings_CP.ops" type="setting">
+			</ref>
+			<ref name="dati_tupla.dat" type="data">
+			</ref>
+		</config>
+		<config default="false" name="CPLEX" category="opl">
+			<ref name="progetto_CPLEX_con_dati_tupla.mod" type="model">
+			</ref>
+			<ref name="dati_tupla.dat" type="data">
+			</ref>
+		</config>
+	</configs>
+	
+</project>
